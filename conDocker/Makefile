@@ -1,5 +1,3 @@
-usege:
-	@echo "Ejecuta make con hola o adios"
 hola:
 	@echo "Hola que tal - Hello how are You"
 
