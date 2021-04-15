@@ -7,4 +7,4 @@ build:
 	docker build -t hybridaccess:$(GIT_TAG) .
 
 tag:
-	docker tag hybridaccess:$(IMAGE_NAME) hybrid:latest
+	docker tag hybridaccess:$(GIT_TAG) hybrid:latest
